@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to dim-docs-chn's documentation!
+DIM去中心化通讯协议文档
 ========================================
 
 .. toctree::
@@ -12,7 +12,7 @@ Welcome to dim-docs-chn's documentation!
 
 
 
-Indices and tables
+目录
 ==================
 
 * :ref:`genindex`
