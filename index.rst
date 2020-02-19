@@ -2,7 +2,7 @@ DIM去中心化通讯协议
 ================
 
 .. image:: logo.png
-    :width: 120px
+    :width: 100px
     :alt: DIM logo
     :align: center
 
@@ -16,4 +16,5 @@ DIM去中心化通讯协议
 .. toctree::
    :maxdepth: 2
 
-   
+   TechnicalWhitePaper.md
+
